@@ -1,6 +1,10 @@
 # Spring-auth-server-example
 ##### Written on java 17
 <hr>
+
+[![Java CI with Gradle](https://github.com/Hung1337/spring-auth-server-example/actions/workflows/gradle.yml/badge.svg)](https://github.com/Hung1337/spring-auth-server-example/actions/workflows/gradle.yml)
+[![CodeQL](https://github.com/Hung1337/spring-auth-server-example/actions/workflows/codeql.yml/badge.svg?branch=master)](https://github.com/Hung1337/spring-auth-server-example/actions/workflows/codeql.yml)
+<hr>
 The simplest example of registration/authorization on JWT.
 
 ###### Current functionality:
