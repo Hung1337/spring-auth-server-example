@@ -33,8 +33,6 @@ group = 'me.hung.auth'
 version = '0.0.1-SNAPSHOT'
 description = 'Spring security - auth server'
 
-java.sourceCompatibility = JavaVersion.VERSION_17
-
 publishing {
     publications {
         maven(MavenPublication) {
