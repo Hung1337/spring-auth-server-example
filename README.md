@@ -10,7 +10,7 @@ The simplest example of registration/authorization on JWT.
 - Hello for users with «ADMIN»‎ role - **/api/hello/admin**
 
 ###### Frameworks/Libraries:
-    spring 2.7
+    spring-boot 2.7
     jjwt 0.9.1
     postgresql 42.4.0
     jakarta.validation-api 2.0.2
